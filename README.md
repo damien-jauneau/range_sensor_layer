@@ -1,4 +1,4 @@
-This repo is comes from the indigo branch of https://github.com/DLu/navigation_layers/tree/indigo without the navigation_layer and social_navigation_layer.
+This repo comes from the indigo branch of https://github.com/DLu/navigation_layers/tree/indigo without the navigation_layer and social_navigation_layer.
 It's an updated version of the branch, working on ROS Kinetic.
 
 # range_sensor_layer
