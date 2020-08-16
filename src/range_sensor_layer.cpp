@@ -226,7 +226,7 @@ void RangeSensorLayer::processVariableRangeMsg(sensor_msgs::Range& range_message
 {
   if (range_message.range < range_message.min_range)
   {
-    range_message.range = range_message.min_range;
+    return;
   }
   if (range_message.range > range_message.max_range)
   {
